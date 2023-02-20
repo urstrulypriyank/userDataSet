@@ -1,42 +1,42 @@
 [
   {
-    "userId": 1,
-    "id": "1",
-    "username": "Harshal123",
+    "userId": 100,
+    "id": "100",
+    "username": "PriyankRai",
     "userprofilepicture": "https://picsum.photos/200",
     "userpost": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsj05x1ZeaMrsGJeJiIAMBc5nnrhm_w7Nsmw&usqp=CAU",
-    "userpostdescription": "Hey there is my post description"
+    "userpostdescription": "This is just demo description of the post "
   },
   {
-    "userId": 2,
-    "id": "2",
-    "username": "Viraj123",
+    "userId": 101,
+    "id": "101",
+    "username": "Atul Patel",
     "userprofilepicture": "https://picsum.photos/200",
     "userpost": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsj05x1ZeaMrsGJeJiIAMBc5nnrhm_w7Nsmw&usqp=CAU",
-    "userpostdescription": "Hey there is my post description"
+    "userpostdescription": "This is just demo description of the post "
   },
   {
-    "userId": 3,
-    "id": "3",
-    "username": "Vedika123",
+    "userId": 102,
+    "id": "102",
+    "username": "Sarthak",
     "userprofilepicture": "https://picsum.photos/200",
     "userpost": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsj05x1ZeaMrsGJeJiIAMBc5nnrhm_w7Nsmw&usqp=CAU",
-    "userpostdescription": "Hey there is my post description"
+    "userpostdescription": "This is just demo description of the post "
   },
   {
-    "userId": 4,
-    "id": "4",
-    "username": "Amogh123",
+    "userId": 103,
+    "id": "103",
+    "username": "Naman ",
     "userprofilepicture": "https://picsum.photos/200",
     "userpost": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsj05x1ZeaMrsGJeJiIAMBc5nnrhm_w7Nsmw&usqp=CAU",
-    "userpostdescription": "Hey there is my post description"
+    "userpostdescription": "This is just demo description of the post "
   },
   {
-    "userId": 5,
-    "id": "5",
-    "username": "Akshay123",
+    "userId": 104,
+    "id": "104",
+    "username": "Samyak",
     "userprofilepicture": "https://picsum.photos/200",
     "userpost": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsj05x1ZeaMrsGJeJiIAMBc5nnrhm_w7Nsmw&usqp=CAU",
-    "userpostdescription": "Hey there is my post description"
+    "userpostdescription": "This is just demo description of the post "
   }
 ]
